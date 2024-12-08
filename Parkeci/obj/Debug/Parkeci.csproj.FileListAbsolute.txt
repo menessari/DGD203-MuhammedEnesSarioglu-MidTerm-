@@ -1,0 +1,7 @@
+C:\Users\ensex\source\repos\Parkeci\Parkeci\bin\Debug\Parkeci.exe.config
+C:\Users\ensex\source\repos\Parkeci\Parkeci\bin\Debug\Parkeci.exe
+C:\Users\ensex\source\repos\Parkeci\Parkeci\bin\Debug\Parkeci.pdb
+C:\Users\ensex\source\repos\Parkeci\Parkeci\obj\Debug\Parkeci.csproj.AssemblyReference.cache
+C:\Users\ensex\source\repos\Parkeci\Parkeci\obj\Debug\Parkeci.csproj.CoreCompileInputs.cache
+C:\Users\ensex\source\repos\Parkeci\Parkeci\obj\Debug\Parkeci.exe
+C:\Users\ensex\source\repos\Parkeci\Parkeci\obj\Debug\Parkeci.pdb
